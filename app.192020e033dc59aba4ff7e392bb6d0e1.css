@@ -1,0 +1,58 @@
+body {
+  background-color: #f2f2f2;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, Sans-Serif;
+}
+.container-1abBc {
+  background-color: white;
+  border-radius: 6px;
+}
+
+.headline-3BiCz {
+  color: #4b4f56;
+  padding: 24px 0 12px;
+}
+
+.description-3jt1K {
+  color: #4b4f56;
+  font-size: 80%;
+  padding-bottom: 12px;
+}
+.container-3mIcB {
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.container-3mIcB:last-of-type {
+  border-bottom: 0;
+}
+
+.select-3s43o {
+  padding: 0 6px;
+}
+
+.label-2pgRs {
+  line-height: 40px;
+}
+
+.value-30HQN {
+  line-height: 40px;
+  color: #e6e6e6;
+}
+
+.options-2r0EJ {
+  overflow: hidden;
+  transition: max-height 300ms;
+  max-height: 1000px;
+}
+
+.collapsed-1sZMQ {
+  /*height: 0;*/
+  max-height: 0;
+}
+.container-3A0m- {
+  line-height: 40px;
+  padding: 0 6px;
+}
+
+.active-2998q {
+  background-color: pink;
+}
